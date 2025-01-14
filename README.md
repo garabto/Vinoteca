@@ -1,6 +1,6 @@
 # Vinoteca
 ## Descripción
-Este proyecto es una página web para un viñedo ficticio que presenta información sobre diferentes tipos de vinos, clientes y detalles de la vinoteca. El objetivo es proporcionar una plataforma atractiva y fácil de usar para que los usuarios exploren y aprendan sobre los vinos.
+Página web para un viñedo ficticio que presenta información sobre diferentes tipos de vinos, clientes y detalles de la vinoteca. El objetivo es proporcionar una plataforma atractiva y fácil de usar para que los usuarios exploren y aprendan sobre los vinos.
 
 ## Características
 - Listado de diferentes vinos con descripciones detalladas.
@@ -12,5 +12,5 @@ Este proyecto es una página web para un viñedo ficticio que presenta informaci
 - **HTML/CSS**: Para la estructura y el diseño de la página web.
 - **JavaScript**: Para la interactividad en el lado del cliente.
 - **Base de datos**: Utilizada para almacenar información sobre vinos y clientes.
-  
-## Cómo Usar
+- **MySQL & PHP**: Para manipular y gestionar la base de datos.
+
